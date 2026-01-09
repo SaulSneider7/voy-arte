@@ -11,9 +11,3 @@ export interface NavItem {
     href: string;
 }
 
-export enum ArtistProfile {
-    INTERPRETER = 'Intérprete',
-    COMPOSER = 'Compositor',
-    PERFORMER = 'Performer Escénico',
-    PRODUCER = 'Productor Musical'
-}
