@@ -6,8 +6,8 @@ export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER.replace('+', '')}`;
 
 export const NAV_ITEMS: NavItem[] = [
     { label: 'Talleres Gratuitos', href: '#talleres' },
-    { label: 'Enseñanza Personalizada', href: '#personalizada' },
     { label: 'Beneficios', href: '#beneficios' },
+    { label: 'Enseñanza Personalizada', href: '#personalizada' },
     { label: 'Contacto', href: '#contacto' },
 ];
 
